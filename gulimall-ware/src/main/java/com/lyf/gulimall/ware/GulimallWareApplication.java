@@ -1,4 +1,4 @@
-package com.lyf.gulimall.lware;
+package com.lyf.gulimall.ware;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
